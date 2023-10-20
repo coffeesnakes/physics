@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "create-next-app": "^13.5.6",
+    "node": "^21.0.0",
+    "semver": "^7.5.4"
+  }
+}
