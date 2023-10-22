@@ -7,5 +7,5 @@ def search(arr, lo, hi, n):
         elif v > n:
             lo = m+1
         else:
-            hi = m
+            hi = m-1
     return False
